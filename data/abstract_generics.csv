@@ -1,1 +1,131 @@
-
+,phenomenon,domain,generic,exemplar,random_exemplar,exception
+0,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Zeppelins have property P.,Turkeys have property P.,0
+1,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Tractors have property P.,Tigers have property P.,0
+2,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Motorbikes have property P.,Falcons have property P.,0
+3,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Helicopters have property P.,Rabbits have property P.,0
+4,Nonmonotonicity (General),Birds,Birds have property P.,Vultures have property P.,Bats have property P.,0
+5,Nonmonotonicity (General),Birds,Birds have property P.,Eagles have property P.,Helicopters have property P.,0
+6,Nonmonotonicity (General),Birds,Birds have property P.,Turkeys have property P.,Sheep have property P.,0
+7,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Trams have property P.,Horses have property P.,0
+8,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Rockets have property P.,Ostriches have property P.,0
+9,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Hovercraft have property P.,Mice have property P.,0
+10,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Taxis have property P.,Penguins have property P.,0
+11,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Sleds have property P.,Parrots have property P.,0
+12,Nonmonotonicity (General),Mammals,Mammals have property P.,Tigers have property P.,Canaries have property P.,0
+13,Nonmonotonicity (General),Mammals,Mammals have property P.,Bats have property P.,Skateboards have property P.,0
+14,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Jeeps have property P.,Ducks have property P.,0
+15,Nonmonotonicity (General),Birds,Birds have property P.,Swans have property P.,Zebras have property P.,0
+16,Nonmonotonicity (General),Birds,Birds have property P.,Sparrows have property P.,Dogs have property P.,0
+17,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Submarines have property P.,Magpies have property P.,0
+18,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Airplanes have property P.,Swans have property P.,0
+19,Nonmonotonicity (General),Birds,Birds have property P.,Storks have property P.,Cats have property P.,0
+20,Nonmonotonicity (General),Birds,Birds have property P.,Robins have property P.,Donkeys have property P.,0
+21,Nonmonotonicity (General),Mammals,Mammals have property P.,Squirrels have property P.,Hovercraft have property P.,0
+22,Nonmonotonicity (General),Mammals,Mammals have property P.,Elephants have property P.,Mopeds have property P.,0
+23,Nonmonotonicity (General),Birds,Birds have property P.,Swallows have property P.,Mice have property P.,0
+24,Nonmonotonicity (General),Birds,Birds have property P.,Penguins have property P.,Squirrels have property P.,0
+25,Nonmonotonicity (General),Birds,Birds have property P.,Ducks have property P.,Mice have property P.,0
+26,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Cars have property P.,Donkeys have property P.,0
+27,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Skateboards have property P.,Kangaroos have property P.,0
+28,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Caravans have property P.,Donkeys have property P.,0
+29,Nonmonotonicity (General),Birds,Birds have property P.,Roosters have property P.,Camels have property P.,0
+30,Nonmonotonicity (General),Birds,Birds have property P.,Blackbirds have property P.,Boats have property P.,0
+31,Nonmonotonicity (General),Mammals,Mammals have property P.,Rhinos have property P.,Sparrows have property P.,0
+32,Nonmonotonicity (General),Mammals,Mammals have property P.,Hedgehogs have property P.,Sleds have property P.,0
+33,Nonmonotonicity (General),Birds,Birds have property P.,Parrots have property P.,Motorbikes have property P.,0
+34,Nonmonotonicity (General),Birds,Birds have property P.,Peacocks have property P.,Elephants have property P.,0
+35,Nonmonotonicity (General),Birds,Birds have property P.,Ostriches have property P.,Tractors have property P.,0
+36,Nonmonotonicity (General),Birds,Birds have property P.,Falcons have property P.,Sheep have property P.,0
+37,Nonmonotonicity (General),Mammals,Mammals have property P.,Lions have property P.,Robins have property P.,0
+38,Nonmonotonicity (General),Mammals,Mammals have property P.,Cats have property P.,Motorbikes have property P.,0
+39,Nonmonotonicity (General),Mammals,Mammals have property P.,Kangaroos have property P.,Crows have property P.,0
+40,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Mopeds have property P.,Dogs have property P.,0
+41,Nonmonotonicity (General),Mammals,Mammals have property P.,Horses have property P.,Storks have property P.,0
+42,Nonmonotonicity (General),Mammals,Mammals have property P.,Rabbits have property P.,Mopeds have property P.,0
+43,Nonmonotonicity (General),Mammals,Mammals have property P.,Giraffes have property P.,Chickens have property P.,0
+44,Nonmonotonicity (General),Birds,Birds have property P.,Herons have property P.,Taxis have property P.,0
+45,Nonmonotonicity (General),Birds,Birds have property P.,Doves have property P.,Hedgehogs have property P.,0
+46,Nonmonotonicity (General),Mammals,Mammals have property P.,Hamsters have property P.,Crows have property P.,0
+47,Nonmonotonicity (General),Mammals,Mammals have property P.,Sheep have property P.,Bicycles have property P.,0
+48,Nonmonotonicity (General),Mammals,Mammals have property P.,Deer have property P.,Magpies have property P.,0
+49,Nonmonotonicity (General),Birds,Birds have property P.,Owls have property P.,Kangaroos have property P.,0
+50,Nonmonotonicity (General),Mammals,Mammals have property P.,Dogs have property P.,Helicopters have property P.,0
+51,Nonmonotonicity (General),Mammals,Mammals have property P.,Mice have property P.,Rockets have property P.,0
+52,Nonmonotonicity (General),Mammals,Mammals have property P.,Camels have property P.,Jeeps have property P.,0
+53,Nonmonotonicity (General),Birds,Birds have property P.,Crows have property P.,Zeppelins have property P.,0
+54,Nonmonotonicity (General),Mammals,Mammals have property P.,Cows have property P.,Sparrows have property P.,0
+55,Nonmonotonicity (General),Mammals,Mammals have property P.,Zebras have property P.,Roosters have property P.,0
+56,Nonmonotonicity (General),Mammals,Mammals have property P.,Donkeys have property P.,Motorbikes have property P.,0
+57,Nonmonotonicity (General),Birds,Birds have property P.,Chickens have property P.,Airplanes have property P.,0
+58,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Carts have property P.,Rabbits have property P.,0
+59,Nonmonotonicity (General),Birds,Birds have property P.,Canaries have property P.,Giraffes have property P.,0
+60,Nonmonotonicity (General),Birds,Birds have property P.,Magpies have property P.,Mopeds have property P.,0
+61,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Buses have property P.,Donkeys have property P.,0
+62,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Boats have property P.,Elephants have property P.,0
+63,Nonmonotonicity (General),Birds,Birds have property P.,Seagulls have property P.,Camels have property P.,0
+64,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Bicycles have property P.,Eagles have property P.,0
+65,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Zeppelins do not have property P.,Chickens do not have property P.,1
+66,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Tractors do not have property P.,Sparrows do not have property P.,1
+67,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Motorbikes do not have property P.,Zebras do not have property P.,1
+68,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Helicopters do not have property P.,Roosters do not have property P.,1
+69,Nonmonotonicity (General),Birds,Birds have property P.,Vultures do not have property P.,Cows do not have property P.,1
+70,Nonmonotonicity (General),Birds,Birds have property P.,Eagles do not have property P.,Sleds do not have property P.,1
+71,Nonmonotonicity (General),Birds,Birds have property P.,Turkeys do not have property P.,Elephants do not have property P.,1
+72,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Trams do not have property P.,Seagulls do not have property P.,1
+73,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Rockets do not have property P.,Seagulls do not have property P.,1
+74,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Hovercraft do not have property P.,Doves do not have property P.,1
+75,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Taxis do not have property P.,Squirrels do not have property P.,1
+76,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Sleds do not have property P.,Squirrels do not have property P.,1
+77,Nonmonotonicity (General),Mammals,Mammals have property P.,Tigers do not have property P.,Vultures do not have property P.,1
+78,Nonmonotonicity (General),Mammals,Mammals have property P.,Bats do not have property P.,Swans do not have property P.,1
+79,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Jeeps do not have property P.,Crows do not have property P.,1
+80,Nonmonotonicity (General),Birds,Birds have property P.,Swans do not have property P.,Buses do not have property P.,1
+81,Nonmonotonicity (General),Birds,Birds have property P.,Sparrows do not have property P.,Cows do not have property P.,1
+82,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Submarines do not have property P.,Swans do not have property P.,1
+83,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Airplanes do not have property P.,Bats do not have property P.,1
+84,Nonmonotonicity (General),Birds,Birds have property P.,Storks do not have property P.,Zebras do not have property P.,1
+85,Nonmonotonicity (General),Birds,Birds have property P.,Robins do not have property P.,Airplanes do not have property P.,1
+86,Nonmonotonicity (General),Mammals,Mammals have property P.,Squirrels do not have property P.,Motorbikes do not have property P.,1
+87,Nonmonotonicity (General),Mammals,Mammals have property P.,Elephants do not have property P.,Bicycles do not have property P.,1
+88,Nonmonotonicity (General),Birds,Birds have property P.,Swallows do not have property P.,Hedgehogs do not have property P.,1
+89,Nonmonotonicity (General),Birds,Birds have property P.,Penguins do not have property P.,Tractors do not have property P.,1
+90,Nonmonotonicity (General),Birds,Birds have property P.,Ducks do not have property P.,Mopeds do not have property P.,1
+91,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Cars do not have property P.,Elephants do not have property P.,1
+92,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Skateboards do not have property P.,Rhinos do not have property P.,1
+93,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Caravans do not have property P.,Mice do not have property P.,1
+94,Nonmonotonicity (General),Birds,Birds have property P.,Roosters do not have property P.,Helicopters do not have property P.,1
+95,Nonmonotonicity (General),Birds,Birds have property P.,Blackbirds do not have property P.,Airplanes do not have property P.,1
+96,Nonmonotonicity (General),Mammals,Mammals have property P.,Rhinos do not have property P.,Parrots do not have property P.,1
+97,Nonmonotonicity (General),Mammals,Mammals have property P.,Hedgehogs do not have property P.,Parrots do not have property P.,1
+98,Nonmonotonicity (General),Birds,Birds have property P.,Parrots do not have property P.,Donkeys do not have property P.,1
+99,Nonmonotonicity (General),Birds,Birds have property P.,Peacocks do not have property P.,Helicopters do not have property P.,1
+100,Nonmonotonicity (General),Birds,Birds have property P.,Ostriches do not have property P.,Deer do not have property P.,1
+101,Nonmonotonicity (General),Birds,Birds have property P.,Falcons do not have property P.,Zebras do not have property P.,1
+102,Nonmonotonicity (General),Mammals,Mammals have property P.,Lions do not have property P.,Vultures do not have property P.,1
+103,Nonmonotonicity (General),Mammals,Mammals have property P.,Cats do not have property P.,Airplanes do not have property P.,1
+104,Nonmonotonicity (General),Mammals,Mammals have property P.,Kangaroos do not have property P.,Turkeys do not have property P.,1
+105,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Mopeds do not have property P.,Donkeys do not have property P.,1
+106,Nonmonotonicity (General),Mammals,Mammals have property P.,Horses do not have property P.,Rockets do not have property P.,1
+107,Nonmonotonicity (General),Mammals,Mammals have property P.,Rabbits do not have property P.,Bicycles do not have property P.,1
+108,Nonmonotonicity (General),Mammals,Mammals have property P.,Giraffes do not have property P.,Zeppelins do not have property P.,1
+109,Nonmonotonicity (General),Birds,Birds have property P.,Herons do not have property P.,Submarines do not have property P.,1
+110,Nonmonotonicity (General),Birds,Birds have property P.,Doves do not have property P.,Motorbikes do not have property P.,1
+111,Nonmonotonicity (General),Mammals,Mammals have property P.,Hamsters do not have property P.,Eagles do not have property P.,1
+112,Nonmonotonicity (General),Mammals,Mammals have property P.,Sheep do not have property P.,Buses do not have property P.,1
+113,Nonmonotonicity (General),Mammals,Mammals have property P.,Deer do not have property P.,Submarines do not have property P.,1
+114,Nonmonotonicity (General),Birds,Birds have property P.,Owls do not have property P.,Caravans do not have property P.,1
+115,Nonmonotonicity (General),Mammals,Mammals have property P.,Dogs do not have property P.,Taxis do not have property P.,1
+116,Nonmonotonicity (General),Mammals,Mammals have property P.,Mice do not have property P.,Caravans do not have property P.,1
+117,Nonmonotonicity (General),Mammals,Mammals have property P.,Camels do not have property P.,Doves do not have property P.,1
+118,Nonmonotonicity (General),Birds,Birds have property P.,Crows do not have property P.,Squirrels do not have property P.,1
+119,Nonmonotonicity (General),Mammals,Mammals have property P.,Cows do not have property P.,Magpies do not have property P.,1
+120,Nonmonotonicity (General),Mammals,Mammals have property P.,Zebras do not have property P.,Roosters do not have property P.,1
+121,Nonmonotonicity (General),Mammals,Mammals have property P.,Donkeys do not have property P.,Robins do not have property P.,1
+122,Nonmonotonicity (General),Birds,Birds have property P.,Chickens do not have property P.,Zebras do not have property P.,1
+123,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Carts do not have property P.,Rabbits do not have property P.,1
+124,Nonmonotonicity (General),Birds,Birds have property P.,Canaries do not have property P.,Zeppelins do not have property P.,1
+125,Nonmonotonicity (General),Birds,Birds have property P.,Magpies do not have property P.,Zebras do not have property P.,1
+126,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Buses do not have property P.,Sparrows do not have property P.,1
+127,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Boats do not have property P.,Vultures do not have property P.,1
+128,Nonmonotonicity (General),Birds,Birds have property P.,Seagulls do not have property P.,Squirrels do not have property P.,1
+129,Nonmonotonicity (General),Vehicles,Vehicles have property P.,Bicycles do not have property P.,Owls do not have property P.,1
