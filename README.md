@@ -1,4 +1,8 @@
-# Nonmonotonic reasoning \& generics
+# Nonmonotonic reasoning about generics and exceptions
+
+<p align="center">
+<img src="figures/nonmonotonicreasoning_highres.png" alt="nonmonotonicreasoningwithgenerics" width="400"/>
+</p>
 
 This repository contains resources for the paper "Are LLMs classical or nonmonotonic reasoners? Lessons from generics" ACL 2024 (main).
 
