@@ -4,7 +4,9 @@ This repository contains resources for the paper "Are LLMs classical or nonmonot
 
 # Data
 
-*coming soon*
+Experiments in this paper are done on two datasets:
+* Abstract generics and exemplars: `data/abstract_generics.csv`
+* Commonsense generics and exemplars: [Penguins Don’t Fly: Reasoning about Generics through Instantiations and Exceptions](https://aclanthology.org/2023.eacl-main.192) (Allaway et al., EACL 2023)
 
 # Citation
 
